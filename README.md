@@ -10,6 +10,7 @@ How to use it
 2. export environment variable
 
 `export FLASK_APP=flaskr`
+
 `export FLASK_DEBUG=true`
 
 3. initialize the database with this command
