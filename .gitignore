@@ -1,0 +1,4 @@
+flaskr.db
+.eggs/
+flaskr.egg-info/
+__pycache__/
